@@ -1,6 +1,9 @@
+This code was copied from [doublec](https://github.com/doublec/urweb-clock). 
+I just removed uw-process submodule to be able to build the code.
+
 # Ur/Web Example
 
-This is simple example of using Ur/Web and Marc Weber's process execution library. The Ur/Web application displays a web page that displays the server's time updated every second or so by executing 'date' on the server.
+This is a simple example of using Ur/Web and Marc Weber's process execution library. The Ur/Web application displays a web page that displays the server's time updated every second or so by executing 'date' on the server.
 
 Requires:
 
