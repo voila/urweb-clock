@@ -1,0 +1,4 @@
+ffi process
+include uw_process.h
+link uw_process.o
+effectful Process.process

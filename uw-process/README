@@ -1,0 +1,8 @@
+Let me quote Adam Chlipala:
+
+> Just to repeat what I said the last time someone brought this up: it is 
+> impossible to support this in Ur/Web in the most general way, without 
+> allowing for the possibility of some crazy behavior.  The runtime system 
+> feels free to restart program execution at any time, which wouldn't work 
+> well with effectful commands that can't be undone.
+
